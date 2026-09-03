@@ -35,28 +35,6 @@ My Data Structures and Algorithms problem-solving journey, focused on coding pra
 | [0338-counting-bits](https://github.com/ramteja6300/DSA/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/ramteja6300/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ramteja6300/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
-## Simulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/ramteja6300/DSA/tree/master/0067-add-binary) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0190-reverse-bits](https://github.com/ramteja6300/DSA/tree/master/0190-reverse-bits) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0338-counting-bits](https://github.com/ramteja6300/DSA/tree/master/0338-counting-bits) |
-## Backtracking
-|  |
-| ------- |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/ramteja6300/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
-## Combinatorics
-|  |
-| ------- |
-| [1863-sum-of-all-subset-xor-totals](https://github.com/ramteja6300/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
-## Enumeration
-|  |
-| ------- |
+
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ramteja6300/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ My Data Structures and Algorithms problem-solving journey, focused on coding pra
 | ------- |
 | [0067-add-binary](https://github.com/ramteja6300/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ramteja6300/DSA/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/ramteja6300/DSA/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -37,4 +38,8 @@ My Data Structures and Algorithms problem-solving journey, focused on coding pra
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ramteja6300/DSA/tree/master/0190-reverse-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ramteja6300/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

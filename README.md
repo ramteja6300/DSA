@@ -28,8 +28,13 @@ My Data Structures and Algorithms problem-solving journey, focused on coding pra
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ramteja6300/DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ramteja6300/DSA/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ramteja6300/DSA/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ramteja6300/DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

@@ -27,8 +27,6 @@ public:
          {
             while(l <= r && !a[l]) l++;
             while(l <= r && !a[r]) r--;
-            if(a[l] && a[r])
-            {
                 if(l+r==n)
                 {
                     b.push_back({l,r});
@@ -43,7 +41,7 @@ public:
                 {
                     r--;
                 }   
-            }
+    
          }
          return b;
     }

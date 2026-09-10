@@ -10,7 +10,7 @@ public:
                 current++;
             }
             else current=0; 
-            old=old>current?old:current;
+            old=max(old,current);
         }
         return old;
         

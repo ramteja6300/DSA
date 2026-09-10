@@ -5,14 +5,13 @@ public:
         int current=0;
         for(int i=0;i<nums.size();i++)
         {
-            if(nums[i]==0)
+            if(nums[i]==1)
             {
-                if(current>=old) old=current;
-                current=0;
+                current++;
             }
-            else current++;
+            else current=0; 
+            old=old>current?old:current;
         }
-        if(current >= old) old = current;
         return old;
         
     }
